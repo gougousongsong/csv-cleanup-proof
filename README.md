@@ -79,3 +79,15 @@ needs-review machinery stays as is — that is the part buyers keep asking for.
 
 Deliverables are reproducible: same input, same workbook, and the audit sheet tells you
 whether a re-run changed anything.
+
+## Packaged version
+
+Everything in this repo, plus the rules file, the audit template and a worked
+before/after workbook, is packaged as a paid download: **CSV/Excel Cleaning CLI & Audit
+Toolkit ($9.99)** → <https://2477537799006.gumroad.com/l/csv-excel-cleaning-audit-toolkit>
+
+If you want to check the output format first, the free 3-rule mini sample produces the
+same `audit` and `needs_review` sheets on 20 rows: <https://2477537799006.gumroad.com/l/ebhbcm>
+
+The code in this repository is free to read and run. The paid version exists for people
+who want the packaged rules and templates rather than wiring it up themselves.

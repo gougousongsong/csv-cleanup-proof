@@ -1,0 +1,17 @@
+{
+ "rows_written": 514,
+ "injected_defects": {
+  "dup_order": 34,
+  "email_case": 45,
+  "date_dmy": 40,
+  "date_us": 25,
+  "date_long": 15,
+  "amount_currency": 60,
+  "amount_thousands": 20,
+  "blank_amount": 18,
+  "name_padded": 38,
+  "region_padded": 30,
+  "tier_case": 30,
+  "missing_email": 12
+ }
+}

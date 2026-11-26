@@ -1,0 +1,29 @@
+{
+ "source_file": "messy_orders.csv",
+ "rows_read": 514,
+ "rows_kept": 480,
+ "duplicates_dropped": 34,
+ "rows_clean": 430,
+ "rows_flagged": 50,
+ "flag_rate_pct": 10.4,
+ "amount_total_all_parsed": 1135974.74,
+ "amount_total_clean_rows": 1051120.88,
+ "transformations": {
+  "amount_missing": 17,
+  "amount_normalised": 66,
+  "date_ambiguous": 24,
+  "date_reformatted": 68,
+  "duplicate_order_id_dropped": 34,
+  "email_missing": 10,
+  "email_normalised": 40,
+  "name_normalised": 480,
+  "region_normalised": 400,
+  "tier_normalised": 480
+ },
+ "flag_reasons": {
+  "email_missing": 10,
+  "amount_missing": 17,
+  "date_ambiguous_day_month_first_assumed": 24
+ },
+ "workbook": "out/clean_orders.xlsx"
+}

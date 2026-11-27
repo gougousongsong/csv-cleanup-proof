@@ -91,3 +91,13 @@ same `audit` and `needs_review` sheets on 20 rows: <https://2477537799006.gumroa
 
 The code in this repository is free to read and run. The paid version exists for people
 who want the packaged rules and templates rather than wiring it up themselves.
+
+## Done for you
+
+If you would rather hand over the file than run anything yourself, the same pipeline is
+sold as a one-off service: **one file, up to 5,000 rows, 24 hours, $49** →
+<https://2477537799006.gumroad.com/l/nivrim>
+
+You get the cleaned workbook, the per-rule audit sheet, and the needs-review list. The
+rows that cannot be resolved from the source stay blank and are flagged — the service
+never invents a value to make the output look complete.
